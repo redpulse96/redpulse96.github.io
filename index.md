@@ -3,7 +3,7 @@
 ![Syed Redhan]
 (/assets/images/red_logo.jpeg)
 
-This is my portfolio. [Portfolio](https://redpulse96.github.io/red.me)
+This is my portfolio. [Portfolio](https://redpulse96.github.io/)
 
 💻  &nbsp; Programming skills: <br/>
 
