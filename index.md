@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/redpulse96/redpulse96.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##  Hi, I'm Syed Redhan!
+[link]
+(https://avatars.githubusercontent.com/u/24405415?s=400&u=8526bd94719f4b2d8998ac85afd5f4842df56f89&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my portfolio. [Portfolio](https://redpulse96.github.io/red.me)
 
-### Markdown
+💻  &nbsp; Programming skills: <br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![AWS](https://img.shields.io/badge/-AWS-220052?style=flat&logoColor=fff&logo=amazon)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logoColor=fff&logo=MySQL)&nbsp;
 
-# Header 1
-## Header 2
-### Header 3
+<center>
+  <table>
+    <tr>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=redpulse96&theme=dracula"/></td>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redpulse96&layout=compact&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Follow me, Let's have a conversation.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redpulse96/redpulse96.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center">
+<a href="https://twitter.com/SyedRedhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="syedRedhan" height="20" width="20" /></a>
+  &nbsp;
+<a href="https://www.linkedin.com/in/redhan-syed-2a3722111/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syedRedhan" height="20" width="20" /></a>
+  &nbsp;
+<a href="https://www.facebook.com/Dr.Redpulse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="syedRedhan" height="20" width="20" /></a>
+  &nbsp;
+<a href="https://www.instagram.com/red.py/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="syedRedhan" height="20" width="20" /></a>
+</p>
