@@ -1,6 +1,6 @@
 
 ##  Hi, I'm Syed Redhan!
-[link]
+![Syed Redhan]
 (https://avatars.githubusercontent.com/u/24405415?s=400&u=8526bd94719f4b2d8998ac85afd5f4842df56f89&v=4)
 
 This is my portfolio. [Portfolio](https://redpulse96.github.io/red.me)
