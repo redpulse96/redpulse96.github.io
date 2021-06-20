@@ -22,8 +22,8 @@ This is my portfolio. [Portfolio](https://redpulse96.github.io/)
 <center>
   <table>
     <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=redpulse96&theme=dracula"/></td>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redpulse96&layout=compact&theme=dracula" /></td>
+        <td><img height="180px" width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=redpulse96&theme=dracula"/></td>
+        <td><img height="180px" width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redpulse96&layout=compact&theme=dracula" /></td>
     </tr>   
   </table>
 </center>  
